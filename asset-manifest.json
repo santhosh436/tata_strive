@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b587009.css",
+    "main.js": "/static/js/main.cfcbd31d.js",
+    "static/js/453.5ba45153.chunk.js": "/static/js/453.5ba45153.chunk.js",
+    "static/media/Cognizant-Logo.svg": "/static/media/Cognizant-Logo.37848af0d5ed1beaefc0553ec0a04779.svg",
+    "static/media/infosys-logo.svg": "/static/media/infosys-logo.f60c8218bbac6c2dc859358d76cd090f.svg",
+    "static/media/logo2.svg": "/static/media/logo2.7e330fbae9eeb0d6aa765aea79dd64ac.svg",
+    "static/media/logo3.svg": "/static/media/logo3.9155b1cdf4da52266017c51c59b09c69.svg",
+    "static/media/8.svg": "/static/media/8.d5edd5b546913e716bb908a259221bb9.svg",
+    "static/media/Wipro.png.svg": "/static/media/Wipro.png.c443995d551fb5a918fd6b0980c3ed0f.svg",
+    "static/media/TCS.svg": "/static/media/TCS.cc4f4865a02bdedcaa9bb26ec340070b.svg",
+    "static/media/logo1.svg": "/static/media/logo1.50b8cd495295cf1cb6ae4740d077db7a.svg",
+    "static/media/Accenture-logo.svg": "/static/media/Accenture-logo.4552fe6cb503aa237a6c2e85008c886a.svg",
+    "static/media/logo6.svg": "/static/media/logo6.103c1faadedce9fc243dec809b3e5ac6.svg",
+    "static/media/deloitte.svg": "/static/media/deloitte.118f3d8256085902192125092a11e44c.svg",
+    "static/media/navbarlogooo.png": "/static/media/navbarlogooo.ef4296cca1ebb00bc5ec.png",
+    "static/media/logo5.svg": "/static/media/logo5.20dffaf8725b1fbb59f70249a9c256f7.svg",
+    "static/media/logo-4.svg": "/static/media/logo-4.fb7641df30d361e873391f38ca756b22.svg",
+    "static/media/logo7.svg": "/static/media/logo7.3048a9455fc661e3d78868e37fdec68d.svg",
+    "index.html": "/index.html",
+    "main.5b587009.css.map": "/static/css/main.5b587009.css.map",
+    "main.cfcbd31d.js.map": "/static/js/main.cfcbd31d.js.map",
+    "453.5ba45153.chunk.js.map": "/static/js/453.5ba45153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b587009.css",
+    "static/js/main.cfcbd31d.js"
+  ]
+}
